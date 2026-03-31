@@ -1,0 +1,4 @@
+e2b
+transformers
+torch
+llama-cpp-python
